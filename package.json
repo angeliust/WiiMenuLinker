@@ -1,0 +1,19 @@
+{
+  "name": "wii-menu-linker",
+  "version": "1.0.0",
+  "description": "A utility to link programs to a Wii-themed Wallpaper Engine background.",
+  "main": "index.js",
+  "scripts": {
+    "start": "qode index.js"
+  },
+  "keywords": [
+    "nodegui",
+    "wallpaper-engine",
+    "wii"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nodegui/nodegui": "^0.60.0"
+  }
+}
