@@ -72,11 +72,11 @@
 ## Support
 
 - [GitHub Issues](https://github.com/tuusuario/wii-programs-linker/issues)
-- Email: <your.email@example.com>
-- Discord: [Your Discord Link]
-- [![GitHub](assets/github.png)](https://github.com/tuusuario/wii-programs-linker)
-  [![YouTube](assets/youtube.png)](https://youtube.com/yourchannel)
-  [![Gmail](assets/gmail.png)](mailto:your.email@example.com)
+- Email: <angelangel.martin.tt@gmail.com>
+- Discord: angeliust
+- [![GitHub](assets/github.png)](https://github.com/angeliust/wiimenulinker)
+  [![YouTube](assets/youtube.png)](https://youtube.com/@angelabrhm)
+  
 
 ---
 
