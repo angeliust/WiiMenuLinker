@@ -34,12 +34,12 @@ Source: "node_modules\*"; DestDir: "{app}\node_modules"; Flags: ignoreversion re
 Source: "run_hidden.vbs"; DestDir: "{app}"; Flags: ignoreversion
 
 [Icons]
-Name: "{group}\Wii Menu Linker"; Filename: "{app}\nodejs\npm.cmd"; Parameters: "start"; WorkingDir: "{app}"; IconFilename: "{app}\assets\icon.png"
+Name: "{group}\Wii Menu Linker"; Filename: "{app}\node.exe"; Parameters: "index.js"; WorkingDir: "{app}"; IconFilename: "{app}\assets\icon.png"
 Name: "{group}\Wii Menu Linker (Hidden)"; Filename: "wscript.exe"; Parameters: "{app}\run_hidden.vbs"; WorkingDir: "{app}"; IconFilename: "{app}\assets\icon.png"
 Name: "{group}\Uninstall Wii Menu Linker"; Filename: "{uninstallexe}"
-Name: "{commondesktop}\Wii Menu Linker"; Filename: "{app}\nodejs\npm.cmd"; Parameters: "start"; WorkingDir: "{app}"; IconFilename: "{app}\assets\icon.png"; Tasks: desktopicon
-Name: "{userappdata}\Microsoft\Internet Explorer\Quick Launch\Wii Menu Linker"; Filename: "{app}\nodejs\npm.cmd"; Parameters: "start"; WorkingDir: "{app}"; IconFilename: "{app}\assets\icon.png"; Tasks: quicklaunchicon
+Name: "{commondesktop}\Wii Menu Linker"; Filename: "{app}\node.exe"; Parameters: "index.js"; WorkingDir: "{app}"; IconFilename: "{app}\assets\icon.png"; Tasks: desktopicon
+Name: "{userappdata}\Microsoft\Internet Explorer\Quick Launch\Wii Menu Linker"; Filename: "{app}\node.exe"; Parameters: "index.js"; WorkingDir: "{app}"; IconFilename: "{app}\assets\icon.png"; Tasks: quicklaunchicon
 
 [Run]
 ; Launch application after installation
-Filename: "{app}\nodejs\npm.cmd"; Parameters: "start"; WorkingDir: "{app}"; Description: "{cm:LaunchProgram,Wii Menu Linker}"; Flags: nowait postinstall skipifsilent 
+Filename: "{app}\node.exe"; Parameters: "index.js"; WorkingDir: "{app}"; Description: "{cm:LaunchProgram,Wii Menu Linker}"; Flags: nowait postinstall skipifsilent 
