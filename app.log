@@ -1,0 +1,245 @@
+[2025-07-16T10:38:28.577Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T10:43:55.389Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T10:44:49.741Z] Successfully stopped script with PID 17908.
+[2025-07-16T10:44:50.633Z] Script process exited with code 1, signal null
+[2025-07-16T17:44:11.718Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:02:11.752Z] Error applying layout to script: ReferenceError: appKey is not defined
+    at EventEmitter.<anonymous> (D:\wii-programs-linker\index.js:184:663)
+    at EventEmitter.emit (node:events:513:28)
+    at EventEmitter.fn [as emit] (D:\wii-programs-linker\node_modules\@nodegui\nodegui\dist\lib\utils\helpers.js:27:16)
+    at logExceptions (D:\wii-programs-linker\node_modules\@nodegui\nodegui\dist\lib\core\EventWidget.js:81:34)
+[2025-07-16T18:03:33.101Z] Layout applied to script: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:03:42.519Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T18:03:47.545Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T18:04:29.000Z] Layout applied to script: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:17:46.887Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:18:03.468Z] Script process exited with code 1, signal null
+[2025-07-16T18:18:03.469Z] Successfully stopped script with PID 16128.
+[2025-07-16T18:18:06.922Z] Layout applied to script: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:18:18.849Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:18:38.757Z] Script process exited with code 1, signal null
+[2025-07-16T18:18:38.757Z] Successfully stopped script with PID 3448.
+[2025-07-16T18:18:49.568Z] Layout applied to script: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:18:52.652Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:19:33.649Z] Script process exited with code 1, signal null
+[2025-07-16T18:19:33.650Z] Successfully stopped script with PID 15288.
+[2025-07-16T18:20:49.148Z] Layout applied to script: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:20:54.309Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:22:49.100Z] Script process exited with code 1, signal null
+[2025-07-16T18:22:49.102Z] Successfully stopped script with PID 8980.
+[2025-07-16T18:26:55.875Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:29:51.089Z] Script process exited with code 1, signal null
+[2025-07-16T18:29:51.090Z] Successfully stopped script with PID 15320.
+[2025-07-16T18:29:52.890Z] Layout applied to script: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:29:54.574Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:30:19.113Z] Script process exited with code 1, signal null
+[2025-07-16T18:30:19.114Z] Successfully stopped script with PID 15808.
+[2025-07-16T18:30:20.500Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:34:48.236Z] Layout applied to script: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:36:31.967Z] Layout applied to script: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:37:46.049Z] Layout applied to script: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:38:47.622Z] Layout applied to script: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:41:20.201Z] Layout applied to script: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:41:31.783Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T18:43:50.309Z] Script process exited with code 1, signal null
+[2025-07-16T18:43:50.311Z] Successfully stopped script with PID 5304.
+[2025-07-16T19:57:19.143Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T19:57:24.636Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T19:58:09.547Z] Layout applied to script: C:/Users/angel/Desktop/311am.js
+[2025-07-16T19:58:13.584Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T19:58:41.027Z] Successfully stopped script with PID 4212.
+[2025-07-16T19:58:47.014Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T19:59:53.104Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T20:00:24.694Z] Successfully stopped script with PID 12688.
+[2025-07-16T20:00:58.927Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T20:03:42.570Z] Script started: C:/Users/angel/Desktop/311am.js
+[2025-07-16T20:03:55.265Z] Successfully stopped script with PID 17168.
+[2025-07-16T20:07:52.668Z] Script started: C:/Users/angel/Desktop/current.js
+[2025-07-16T20:12:08.238Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T20:12:08.934Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T20:12:16.718Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T20:12:17.314Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T20:12:25.736Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T20:12:26.354Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T20:12:31.108Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T20:12:31.705Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T20:12:40.054Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T20:12:40.636Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T20:13:06.119Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T20:13:06.709Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T20:13:11.933Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T20:13:12.562Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T20:13:20.705Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T20:13:21.307Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T20:14:02.304Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T20:14:02.891Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T20:15:14.254Z] Script started: D:/wii-programs-linker/scripts/designnediting.js
+[2025-07-16T20:16:19.453Z] Script process exited with code 1, signal null
+[2025-07-16T20:16:19.457Z] Successfully stopped script with PID 12400.
+[2025-07-16T20:16:20.619Z] Script started: D:/wii-programs-linker/scripts/designnediting.js
+[2025-07-16T20:25:21.499Z] Script started: D:/wii-programs-linker/scripts/1.js
+[2025-07-16T20:28:45.239Z] Script started: D:/wii-programs-linker/scripts/2.js
+[2025-07-16T20:43:37.169Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T20:43:37.882Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T20:44:23.987Z] Layout applied to script: D:/wii-programs-linker/scripts/1.js
+[2025-07-16T20:46:54.750Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T20:46:55.316Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T20:47:28.696Z] Script started: D:/wii-programs-linker/scripts/4.js
+[2025-07-16T20:47:59.866Z] Successfully stopped script with PID 15584.
+[2025-07-16T20:48:01.661Z] Layout applied to script: D:/wii-programs-linker/scripts/4.js
+[2025-07-16T20:48:03.080Z] Script started: D:/wii-programs-linker/scripts/4.js
+[2025-07-16T20:49:52.946Z] Script started: D:/wii-programs-linker/scripts/4.js
+[2025-07-16T20:53:36.089Z] Script started: D:/wii-programs-linker/scripts/4.js
+[2025-07-16T20:53:42.937Z] Successfully stopped script with PID 14836.
+[2025-07-16T21:01:26.005Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:01:26.668Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:01:59.886Z] Script started: D:/wii-programs-linker/scripts/6.js
+[2025-07-16T21:06:18.373Z] Script started: D:/wii-programs-linker/scripts/6.js
+[2025-07-16T21:06:35.987Z] Successfully stopped script with PID 14304.
+[2025-07-16T21:09:39.116Z] Script started: D:/wii-programs-linker/scripts/6.js
+[2025-07-16T21:09:56.596Z] Layout applied to script: D:/wii-programs-linker/scripts/6.js
+[2025-07-16T21:09:58.722Z] Successfully stopped script with PID 13088.
+[2025-07-16T21:10:00.942Z] Script started: D:/wii-programs-linker/scripts/6.js
+[2025-07-16T21:10:12.800Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:10:17.941Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:10:23.153Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:10:23.747Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:10:56.361Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:10:56.912Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:11:01.206Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:11:01.785Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:11:08.510Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:11:09.092Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:11:34.575Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:11:35.147Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:11:44.414Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:11:44.958Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:11:53.850Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:11:54.413Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:12:17.711Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:12:18.280Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:12:45.999Z] Layout applied to script: D:/wii-programs-linker/scripts/6.js
+[2025-07-16T21:12:47.985Z] Successfully stopped script with PID 13072.
+[2025-07-16T21:12:49.238Z] Script started: D:/wii-programs-linker/scripts/6.js
+[2025-07-16T21:16:05.553Z] Script started: D:/wii-programs-linker/scripts/6.js
+[2025-07-16T21:20:58.837Z] Layout applied to script: D:/wii-programs-linker/scripts/6.js
+[2025-07-16T21:21:01.736Z] Script started: D:/wii-programs-linker/scripts/6.js
+[2025-07-16T21:21:11.969Z] Successfully stopped script with PID 7972.
+[2025-07-16T21:21:30.353Z] Script started: D:/wii-programs-linker/scripts/a.js
+[2025-07-16T21:21:42.166Z] Successfully stopped script with PID 11804.
+[2025-07-16T21:23:07.319Z] Script started: D:/wii-programs-linker/scripts/a.js
+[2025-07-16T21:25:35.412Z] Layout applied to script: D:/wii-programs-linker/scripts/a.js
+[2025-07-16T21:25:47.437Z] Script started: D:/wii-programs-linker/scripts/b.js
+[2025-07-16T21:27:42.445Z] Layout applied to script: D:/wii-programs-linker/scripts/c.js
+[2025-07-16T21:27:45.030Z] Script started: D:/wii-programs-linker/scripts/c.js
+[2025-07-16T21:27:58.930Z] Script process exited with code 1, signal null
+[2025-07-16T21:27:58.931Z] Successfully stopped script with PID 10668.
+[2025-07-16T21:40:20.444Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:40:21.210Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:40:29.509Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:40:30.054Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:40:38.523Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:40:39.107Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:40:47.840Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:40:48.412Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:41:04.803Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:41:05.361Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:41:11.902Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:41:12.460Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:41:17.878Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:41:18.444Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:41:38.101Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T21:41:38.645Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T21:41:54.541Z] Script started: D:/wii-programs-linker/scripts/c.js
+[2025-07-16T21:42:50.137Z] Script process exited with code 1, signal null
+[2025-07-16T21:42:50.138Z] Successfully stopped script with PID 12292.
+[2025-07-16T21:42:51.725Z] Layout applied to script: D:/wii-programs-linker/scripts/c.js
+[2025-07-16T21:42:53.561Z] Script started: D:/wii-programs-linker/scripts/c.js
+[2025-07-16T21:47:30.422Z] Script started: D:/wii-programs-linker/scripts/c.js
+[2025-07-16T21:47:31.729Z] Script process exited with code 1, signal null
+[2025-07-16T21:47:31.731Z] Successfully stopped script with PID 8576.
+[2025-07-16T21:55:21.532Z] No se encontraron procesos de node.exe ejecutando c.js
+[2025-07-16T21:55:21.541Z] No se encontraron procesos de nodew.exe ejecutando c.js
+[2025-07-16T21:55:27.072Z] No se encontraron procesos de nodew.exe ejecutando c.js
+[2025-07-16T21:55:27.088Z] No se encontraron procesos de node.exe ejecutando c.js
+[2025-07-16T21:56:33.322Z] No se encontraron procesos de node.exe ejecutando c.js
+[2025-07-16T21:56:33.329Z] No se encontraron procesos de nodew.exe ejecutando c.js
+[2025-07-16T21:58:39.972Z] No se encontraron procesos de node/nodew ejecutando el script seleccionado.
+[2025-07-16T21:58:44.674Z] No se encontraron procesos de node/nodew ejecutando el script seleccionado.
+[2025-07-16T22:00:45.825Z] Procesos matados con PowerShell: Matando proceso PID: 9592 - "D:\wii-programs-linker\node_modules\@nodegui\qode\binaries\qode.exe"  "D:/wii-programs-linker/scripts/c.js"
+
+[2025-07-16T22:01:06.813Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T22:01:12.385Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T22:02:49.908Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T22:02:50.472Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T22:02:54.955Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T22:02:55.539Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T22:03:02.437Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T22:03:03.000Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T22:03:23.470Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T22:03:24.042Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T22:03:30.447Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T22:03:31.014Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T22:03:38.086Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T22:03:38.667Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T22:04:12.269Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T22:04:12.842Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T22:04:23.741Z] Layout applied to script: D:/wii-programs-linker/scripts/c.js
+[2025-07-16T22:04:39.074Z] Script started: D:/wii-programs-linker/scripts/personal.js
+[2025-07-16T22:04:55.925Z] Layout applied to script: D:/wii-programs-linker/scripts/personal.js
+[2025-07-16T22:05:17.095Z] Successfully stopped script with PID 6256.
+[2025-07-16T22:05:18.519Z] Script started: D:/wii-programs-linker/scripts/personal.js
+[2025-07-16T22:05:50.943Z] Script process exited with code 1, signal null
+[2025-07-16T22:05:50.945Z] Successfully stopped script with PID 11080.
+[2025-07-16T22:05:55.703Z] Script started: D:/wii-programs-linker/scripts/personal.js
+[2025-07-16T22:31:28.502Z] Procesos matados con PowerShell: Matando proceso PID: 16208 - node D:/wii-programs-linker/scripts/personal.js
+
+[2025-07-16T22:31:33.629Z] No se encontraron procesos de node/nodew/qode ejecutando el script seleccionado.
+[2025-07-16T22:31:37.008Z] No se encontraron procesos de node/nodew/qode ejecutando el script seleccionado.
+[2025-07-16T22:32:48.939Z] PowerShell stderr: #< CLIXML
+
+[2025-07-16T22:32:49.651Z] PowerShell stderr: <Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04"><Obj S="progress" RefId="0"><TN RefId="0"><T>System.Management.Automation.PSCustomObject</T><T>System.Object</T></TN><MS><I64 N="SourceId">1</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj><Obj S="progress" RefId="1"><TNRef RefId="0" /><MS><I64 N="SourceId">2</I64><PR N="Record"><AV>Preparing modules for first use.</AV><AI>0</AI><Nil /><PI>-1</PI><PC>-1</PC><T>Completed</T><SR>-1</SR><SD> </SD></PR></MS></Obj></Objs>
+[2025-07-16T22:34:11.944Z] Layout applied to script: D:/wii-programs-linker/scripts/Editing.js
+[2025-07-16T22:34:14.967Z] Script started: D:/wii-programs-linker/scripts/Editing.js
+[2025-07-16T22:44:46.069Z] Script process exited with code 1, signal null
+[2025-07-16T22:44:46.071Z] Successfully stopped script with PID 2492.
+[2025-07-16T22:49:25.947Z] Script started: D:/wii-programs-linker/scripts/Editing.js
