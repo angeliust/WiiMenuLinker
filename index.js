@@ -9,6 +9,7 @@ const path = require('path');
 const fs = require('fs');
 const { spawn, exec } = require('child_process');
 const open = require('open');
+const os = require('os');
 
 // Try to import steam-game-path, handle if not available
 let steamGamePath = null;
@@ -21,7 +22,11 @@ try {
 }
 
 // --- Logger Utility ---
-const logFile = path.join(__dirname, 'app.log');
+const logFile = path.join(process.env.APPDATA || os.homedir(), 'WiiMenuLinker', 'app.log');
+const logDir = path.dirname(logFile);
+if (!fs.existsSync(logDir)) {
+    fs.mkdirSync(logDir, { recursive: true });
+}
 function log(message) {
     const timestamp = new Date().toISOString();
     fs.appendFileSync(logFile, `[${timestamp}] ${message}\n`);
