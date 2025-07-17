@@ -1,14 +1,28 @@
-# Node.js binaries and large files
-nodejs/
+# Build and distribution files
 build/
 installer/
+dist/
 *.exe
 *.zip
 *.msi
+*.dmg
+*.app
+
+# Node.js binaries and large files
+nodejs/
+node_modules/
+*.node
+
+# Example files (keep these in repo for reference)
+# installer-example.iss
+# build-example.bat
 
 # Logs
 *.log
 app.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 
 # Runtime data
 pids
@@ -35,7 +49,6 @@ bower_components
 build/Release
 
 # Dependency directories
-node_modules/
 jspm_packages/
 
 # TypeScript v1 declaration files
@@ -84,15 +97,12 @@ typings/
 # TernJS port file
 .tern-port
 
-# Temporary folders
-tmp/
-temp/
-
 # IDE files
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
 
 # OS generated files
 .DS_Store
@@ -102,3 +112,7 @@ temp/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
