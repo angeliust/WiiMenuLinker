@@ -1,289 +1,182 @@
-# Wii Menu Linker
+# Wii Menu Linker 🎮
 
-Wii Menu Program Linker for Wallpaper Engine Wii Menu
+<div align="center">
+  <img src="https://i.imgur.com/umCKV5i.png" alt="Wii Menu Linker Banner" width="600"/>
+  <br/>
+  <img src="https://i.imgur.com/mt56kM7.png" alt="Wii Menu Linker Icon" width="96"/>
+  <br/>
+  <a href="https://github.com/angeliust/WiiMenuLinker"><img src="https://img.shields.io/badge/Windows-10-blue?logo=windows"/></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-v18.12.1-green?logo=node.js"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg"/></a>
+</div>
 
-## 📋 Descripción
+## 📖 Overview
 
-Wii Menu Linker es una aplicación de escritorio que permite crear menús interactivos estilo Wii para Wallpaper Engine. Con esta herramienta puedes:
+**Wii Menu Linker** is a NodeGui-based desktop application that creates an interactive Wii-style menu for launching your favorite games and programs through Wallpaper Engine. Transform your desktop into a nostalgic Wii interface with customizable slots for games, applications, and web links.
 
-- **Configurar hasta 12 programas/juegos** en un grid 3x4
-- **Detectar automáticamente juegos** de Steam y Epic Games
-- **Generar scripts** para Wallpaper Engine
-- **Ejecutar scripts en segundo plano** para lanzar programas
-- **Configurar inicio automático** en Windows
-- **Gestionar layouts** personalizados
+## ✨ Features
 
-## 🚀 Características
+- 🎮 **Wii-Style Interface**: 12 customizable slots with a nostalgic Wii menu design
+- 🎯 **Smart Game Detection**: Automatic detection of Steam and Epic Games libraries
+- 🔍 **Start Menu Integration**: Search and add programs from Windows Start Menu
+- 📁 **File Browser**: Browse and add any executable or shortcut
+- 🌐 **Web Links**: Add custom web links to your menu
+- 💾 **Layout Management**: Save and load custom layouts
+- 🎨 **Wallpaper Engine Integration**: Generate scripts compatible with Wallpaper Engine
+- 🔄 **Background Execution**: Run scripts in the background with hidden launcher
+- 🚀 **Auto-Startup**: Configure scripts to run on Windows startup
+- 🛠️ **Process Management**: Built-in tools to stop all running scripts
 
-### ✨ Funcionalidades Principales
-- **Interfaz gráfica intuitiva** con diseño estilo Wii
-- **Detección automática** de bibliotecas Steam y Epic Games
-- **Búsqueda en el menú inicio** de Windows
-- **Navegador de archivos** para programas personalizados
-- **Generación de scripts** para Wallpaper Engine
-- **Ejecución en segundo plano** con scripts ocultos
-- **Configuración de inicio automático** en Windows
-- **Gestión de layouts** personalizados
+## 🎯 Use Cases
 
-### 🎮 Compatibilidad
-- **Steam**: Detección automática de juegos instalados
-- **Epic Games**: Soporte para juegos de Epic Games Store
-- **Programas locales**: Cualquier ejecutable (.exe)
-- **Enlaces web**: URLs directas
-- **Accesos directos**: Archivos .lnk y .url
+- **Gaming Setup**: Create a custom game launcher for your favorite titles
+- **Productivity**: Quick access to frequently used applications
+- **Streaming**: Professional overlay for game streaming
+- **Customization**: Personalize your desktop with a unique interface
 
-## 📦 Instalación
+## 🚀 Installation
 
-### Requisitos del Sistema
-- **Windows 10/11** (64-bit)
-- **Node.js 18.x** o superior
-- **Permisos de administrador** (para configuración de inicio automático)
+### Option 1: Download Installer (Recommended)
+1. Download the latest installer from [Releases](https://github.com/angeliust/WiiMenuLinker/releases)
+2. Run `WiiMenuLinker-Setup-v1.0.exe` as Administrator
+3. Follow the installation wizard
+4. Launch from Start Menu or Desktop shortcut
 
-### Instalación desde Código Fuente
+### Option 2: Portable Version
+1. Download the portable package and extract to any folder
+2. Run `WiiMenuLinker.bat` or `run_hidden.vbs` for hidden mode
 
-1. **Clona el repositorio**
-   ```bash
-   git clone https://github.com/angeliust/WiiMenuLinker.git
-   cd WiiMenuLinker
-   ```
+## 📋 Requirements
 
-2. **Instala las dependencias**
-   ```bash
-   npm install
-   ```
+- **OS**: Windows 10/11 (64-bit)
+- **Node.js**: Included in the package (no separate installation needed)
+- **Wallpaper Engine**: For full integration (optional)
 
-3. **Ejecuta la aplicación**
-   ```bash
-   npm start
-   ```
+## 🎮 Quick Start Guide
 
-## 🛠️ Desarrollo
+### 1. Launch the Application
 
-### Estructura del Proyecto
+Start Menu → Wii Menu Linker
+
+### 2. Configure Your Slots
+- Click any slot to configure it
+- Choose from:
+  - **Search Start Menu**: Find installed applications
+  - **Search Games**: Browse Steam/Epic Games
+  - **Browse for File**: Select any executable
+  - **Add Web Link**: Add custom URLs
+
+### 3. Save Your Layout
+- Click "Save Current Layout" to preserve your configuration
+- Use "Manage Layouts" to load previous configurations
+
+### 4. Generate Wallpaper Engine Script
+- Click "Generate Config File" → Export as .js Script
+- Save the script for Wallpaper Engine integration
+
+### 5. Run in Background (Optional)
+- Select your script and click "Start Script"
+- Use "Run on Windows Startup" for automatic execution
+
+## 🛠️ Advanced Features
+
+### Steam Library Configuration
+- Click "Select Steam Library Folder(s)" to configure multiple Steam directories
+- The app automatically detects games from configured libraries
+
+### Script Management
+- **Start Script**: Run selected script in background
+- **Stop Script**: Terminate running script
+- **Stop All Scripts**: Force close all related processes
+- **Kill Startup Script**: Remove auto-startup scripts
+
+### Layout System
+- Save multiple layouts for different use cases
+- Export layouts as JavaScript files for Wallpaper Engine
+- Import/export layout configurations
+
+## 📁 File Structure
+
 ```
 WiiMenuLinker/
-├── index.js              # Aplicación principal
-├── package.json          # Dependencias y scripts
-├── assets/              # Imágenes e iconos
-├── layouts/             # Configuraciones de layouts
-├── scripts/             # Scripts generados
-├── config.json          # Configuración de la aplicación
-└── README.md           # Documentación
+├── index.js              # Main application
+├── config.json           # User configuration
+├── app.log               # Application logs
+├── assets/               # Images and icons
+├── layouts/              # Saved layouts
+├── scripts/              # Generated scripts
+├── run_hidden.vbs        # Hidden launcher
+└── stop-all-scripts.bat  # Process killer
 ```
 
-### Scripts Disponibles
-- `npm start` - Ejecuta la aplicación
-- `npm install` - Instala dependencias
+## 🔧 Configuration
 
-### Dependencias Principales
-- `@nodegui/nodegui` - Framework de UI nativo
-- `steam-game-path` - Detección de juegos Steam
-- `open` - Apertura de archivos y URLs
+### Steam Library Paths
+The app automatically saves your last selected Steam library paths in `config.json`:
 
-## 📦 Crear tu Propia Build
+```json
+{
+  "steamLibraryFolders": [
+    "D:\\SteamLibrary",
+    "C:\\Program Files (x86)\\Steam"
+  ],
+  "lastSteamFolderPath": "C:\\"
+}
+```
 
-### Opción 1: Build Manual (Recomendado)
+### Script Generation
+Generated scripts monitor Wallpaper Engine's log file and launch applications based on user interactions.
 
-1. **Prepara el entorno**
-   ```bash
-   # Clona el repositorio
-   git clone https://github.com/angeliust/WiiMenuLinker.git
-   cd WiiMenuLinker
-   
-   # Instala dependencias
-   npm install
-   ```
+## 🐛 Troubleshooting
 
-2. **Descarga Node.js portable**
-   ```bash
-   # Descarga Node.js v18.20.8 para Windows x64
-   # Desde: https://nodejs.org/dist/v18.20.8/node-v18.20.8-win-x64.zip
-   ```
+### Common Issues
 
-3. **Crea la carpeta de build**
-   ```bash
-   mkdir WiiMenuLinker-Build
-   cd WiiMenuLinker-Build
-   ```
+**Script won't start:**
+- Check if Node.js is properly included in the package
+- Run as Administrator for startup tasks
+- Check `app.log` for error details
 
-4. **Copia los archivos necesarios**
-   ```bash
-   # Copia la aplicación
-   cp -r ../WiiMenuLinker/* .
-   
-   # Extrae Node.js portable
-   # Descomprime node-v18.20.8-win-x64.zip
-   # Copia node.exe y archivos relacionados a la raíz
-   ```
+**Games not detected:**
+- Verify Steam/Epic Games installation paths
+- Use "Select Steam Library Folder(s)" to add custom paths
+- Check if game manifests exist in Steam directories
 
-5. **Crea el launcher**
-   ```bash
-   # Crea run_hidden.vbs
-   echo 'Set WshShell = CreateObject("WScript.Shell")' > run_hidden.vbs
-   echo 'WshShell.Run "node.exe index.js", 0, False' >> run_hidden.vbs
-   echo 'Set WshShell = Nothing' >> run_hidden.vbs
-   
-   # Crea WiiMenuLinker.bat
-   echo '@echo off' > WiiMenuLinker.bat
-   echo 'cd /d "%~dp0"' >> WiiMenuLinker.bat
-   echo 'node.exe index.js' >> WiiMenuLinker.bat
-   ```
+**Wallpaper Engine integration:**
+- Ensure the log file path is correct in generated scripts
+- Verify Wallpaper Engine is running
+- Check script permissions and execution
 
-### Opción 2: Build con Inno Setup
+### Log Files
+- **Application Log**: `app.log` - Contains detailed error information
+- **Script Logs**: Check console output for generated scripts
 
-1. **Instala Inno Setup**
-   - Descarga desde: https://jrsoftware.org/isdl.php
-   - Instala Inno Setup 6
+## 🤝 Contributing
 
-2. **Crea el script de instalación**
-   ```ini
-   [Setup]
-   AppName=Wii Menu Linker
-   AppVersion=1.0.0
-   AppPublisher=Tu Nombre
-   DefaultDirName={pf}\WiiMenuLinker
-   DefaultGroupName=Wii Menu Linker
-   OutputDir=installer
-   OutputBaseFilename=WiiMenuLinker-Setup
-   Compression=lzma
-   SolidCompression=yes
-   PrivilegesRequired=admin
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-   [Files]
-   Source: "node.exe"; DestDir: "{app}"; Flags: ignoreversion
-   Source: "index.js"; DestDir: "{app}"; Flags: ignoreversion
-   Source: "package.json"; DestDir: "{app}"; Flags: ignoreversion
-   Source: "assets\*"; DestDir: "{app}\assets"; Flags: ignoreversion recursesubdirs
-   Source: "layouts\*"; DestDir: "{app}\layouts"; Flags: ignoreversion recursesubdirs
-   Source: "node_modules\*"; DestDir: "{app}\node_modules"; Flags: ignoreversion recursesubdirs
-   Source: "run_hidden.vbs"; DestDir: "{app}"; Flags: ignoreversion
+## 📄 License
 
-   [Icons]
-   Name: "{group}\Wii Menu Linker"; Filename: "{app}\node.exe"; Parameters: "index.js"; WorkingDir: "{app}"
-   Name: "{group}\Wii Menu Linker (Hidden)"; Filename: "wscript.exe"; Parameters: "{app}\run_hidden.vbs"; WorkingDir: "{app}"
-   Name: "{commondesktop}\Wii Menu Linker"; Filename: "{app}\node.exe"; Parameters: "index.js"; WorkingDir: "{app}"
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-   [Run]
-   Filename: "{app}\node.exe"; Parameters: "index.js"; WorkingDir: "{app}"; Description: "Launch Wii Menu Linker"; Flags: nowait postinstall skipifsilent
-   ```
+## 🙏 Acknowledgments
 
-3. **Compila el instalador**
-   ```bash
-   # Usa ISCC.exe de Inno Setup
-   "C:\Program Files (x86)\Inno Setup 6\ISCC.exe" installer.iss
-   ```
+- **NodeGui**: For the cross-platform GUI framework
+- **Wallpaper Engine**: For the wallpaper integration capabilities
+- **Steam/Epic Games**: For game library access
 
-### Opción 3: Build con Electron (Avanzado)
+## 📞 Support
 
-1. **Instala Electron**
-   ```bash
-   npm install --save-dev electron
-   ```
-
-2. **Crea main.js para Electron**
-   ```javascript
-   const { app, BrowserWindow } = require('electron');
-   const path = require('path');
-
-   function createWindow() {
-     const win = new BrowserWindow({
-       width: 1024,
-       height: 768,
-       webPreferences: {
-         nodeIntegration: true,
-         contextIsolation: false
-       }
-     });
-
-     win.loadFile('index.html');
-   }
-
-   app.whenReady().then(createWindow);
-   ```
-
-3. **Configura package.json**
-   ```json
-   {
-     "main": "main.js",
-     "scripts": {
-       "start": "electron .",
-       "build": "electron-builder"
-     }
-   }
-   ```
-
-## 🎯 Uso
-
-### Configuración Inicial
-1. **Ejecuta la aplicación**
-2. **Selecciona carpetas de Steam** (opcional)
-3. **Configura los slots** con tus programas favoritos
-4. **Guarda tu layout** personalizado
-
-### Generación de Scripts
-1. **Configura los slots** con tus programas
-2. **Haz clic en "Generate Config File"**
-3. **Guarda el script** en la carpeta de Wallpaper Engine
-4. **Configura Wallpaper Engine** para usar el script
-
-### Ejecución en Segundo Plano
-1. **Selecciona un script** generado
-2. **Haz clic en "Start Script"**
-3. **Configura inicio automático** (opcional)
-
-## 🔧 Configuración
-
-### Archivos de Configuración
-- `config.json` - Configuración de la aplicación
-- `layouts/` - Layouts guardados
-- `scripts/` - Scripts generados
-
-### Carpetas de Steam
-- **Detección automática**: `C:\Program Files (x86)\Steam`
-- **Bibliotecas adicionales**: Configurables desde la interfaz
-
-## 🐛 Solución de Problemas
-
-### Problemas Comunes
-1. **"Node.js no encontrado"**
-   - Asegúrate de tener Node.js instalado
-   - Verifica que `node.exe` esté en el PATH
-
-2. **"Script no funciona"**
-   - Verifica que Wallpaper Engine esté configurado correctamente
-   - Revisa los logs en `C:\Program Files (x86)\Steam\steamapps\common\wallpaper_engine\log.txt`
-
-3. **"No se detectan juegos"**
-   - Verifica que Steam esté instalado
-   - Configura las carpetas de biblioteca correctamente
-
-### Logs y Debugging
-- **Log de la aplicación**: `app.log`
-- **Log de Wallpaper Engine**: `C:\Program Files (x86)\Steam\steamapps\common\wallpaper_engine\log.txt`
-
-## 🤝 Contribuir
-
-### Cómo Contribuir
-1. **Fork el repositorio**
-2. **Crea una rama** para tu feature
-3. **Haz tus cambios**
-4. **Envía un Pull Request**
-
-### Reportar Bugs
-- Usa las **Issues** de GitHub
-- Incluye información del sistema
-- Adjunta logs si es posible
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver `LICENSE` para más detalles.
-
-## 🙏 Agradecimientos
-
-- **NodeGUI** por el framework de UI nativo
-- **Steam** por la API de detección de juegos
-- **Wallpaper Engine** por la integración
+- **GitHub Issues**: [Report bugs or request features](https://github.com/angeliust/WiiMenuLinker/issues)
+- **Documentation**: Check the `app.log` file for detailed error information
+- **Community**: Join discussions in the GitHub repository
 
 ---
 
-**¡Disfruta creando tus menús estilo Wii! 🎮**
+<div align="center">
+  <p>Made with ❤️ for the gaming community</p>
+  <p>Transform your desktop into a nostalgic Wii experience! 🎮</p>
+</div>
